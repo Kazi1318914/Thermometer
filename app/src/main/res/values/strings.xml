@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thermometer</string>
+    <string name="hintText"><font size="20">Enter fahrenheit value</font></string>
+    <string name="convert">Convert</string>
+</resources>
